@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 -->  
 ⁂🔭 I’m currently working on Different sort of Python Problems
 
-⁂🌱 I’m currently learning Python Prpgramming Language
+⁂🌱 I’m currently learning Python Programming Language
 
 ⁂👯 I’m looking to collaborate with no one(till now)
 
