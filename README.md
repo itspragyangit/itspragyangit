@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 
 ⁂😄 Pronouns: Hmm IDK
 
-⁂⚡ Fun fact: This is a fun fact 😂
+⁂⚡ Fun fact: I have a huge crush on Triggu 😂
 
 ⁂ Also subscribe to my channel IT's Pragyan
