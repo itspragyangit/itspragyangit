@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 
 ⁂💬 Ask me about Python related queries
 
-⁂📫 How to reach me: via mail or twitter (check the profile mail is there)
+⁂📫 How to reach me: via [mail](pragyanparamitadutta26@gmail.com) or [twitter](www.twitter.com/it_pragyan)
 
-⁂😄 Pronouns: Hmm IDK
+⁂😄 Pronouns: she/her
 
 ⁂⚡ Fun fact: I have a huge crush on Triggu 😂
 
-⁂ Also subscribe to my channel IT's Pragyan
+⁂ Also subscribe to my channel [IT's Pragyan]()
