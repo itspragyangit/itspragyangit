@@ -19,3 +19,9 @@ Here are some ideas to get you started:
 ⁂⚡ Fun fact: I❤myself
 
 ⁂ Also subscribe to my channel [IT's Pragyan](https://www.youtube.com/channel/UCyC9Y-slTTJaLgZbX7qzhmA)
+
+<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
+
+# YouTube posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
