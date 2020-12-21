@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 ⁂💬 Ask me about Python 
 
-⁂📫 How to reach me: via [@it_pragyan](www.twitter.com/it_pragyan) or [Telegram](https://t.me/pragyan_paramita_dutta)
+⁂📫 How to reach me: via [Twitter](www.twitter.com/it_pragyan) or [Telegram](https://t.me/pragyan_paramita_dutta)
 
 ⁂😄 Pronouns: she/her
 
