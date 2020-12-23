@@ -20,4 +20,9 @@ Here are some ideas to get you started:
 
 ⁂ Also subscribe to my channel [IT's Pragyan](https://www.youtube.com/channel/UCyC9Y-slTTJaLgZbX7qzhmA)
 
-### YouTube Videos
+# YouTube Videos
+
+[If- else in Python | Part 3 | Python Tutorial | Generating Random Numbers | Stone-paper-scissor-cut](https://www.youtube.com/watch?v=hCwrMi2MsSw&t=453s)
+[DNA Nucleotide counting || ATGC Sequence || Python Tutorial 10 || Strings and Dictionaries ||Problem](https://www.youtube.com/watch?v=jZekSDeBq5w&t=444s)
+[If-else statement in python 2 | Python | Tutorial 9](https://www.youtube.com/watch?v=qiYGWXGvfwE&t=19s)
+[If-else statement in Python | Python | Tutorial 8](https://www.youtube.com/watch?v=hgUfJp8MAdo&t=61s)
