@@ -24,6 +24,8 @@ Here are some ideas to get you started:
 
 # YouTube Videos
 
+👉🏽 [Special Numbers Part 1 || Python Tutorial 12 || Python Problems || Pronic and Twisted Prime](https://www.youtube.com/watch?v=JMqUcdTTB7g&feature=youtu.be)
+
 👉🏽 [If- else in Python | Part 3 | Python Tutorial | Generating Random Numbers | Stone-paper-scissor-cut](https://www.youtube.com/watch?v=hCwrMi2MsSw&t=453s)
 
 👉🏽 [DNA Nucleotide counting || ATGC Sequence || Python Tutorial 10 || Strings and Dictionaries ||Problem](https://www.youtube.com/watch?v=jZekSDeBq5w&t=444s)
