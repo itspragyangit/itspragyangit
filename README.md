@@ -36,3 +36,8 @@ Here are some ideas to get you started:
 
 👉🏽 [Python Tutorial 5 || Python Turtles || Creating a rectangle using python turtles](https://www.youtube.com/watch?v=xkbdaNuTmz4&t=247s)
 
+
+
+
+https://camo.githubusercontent.com/2e31f86aebd5a6802dc49c6e07882c66d5ab701b1ff18afe0b5228bbd5f523f9/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d544147495357494c4426636f6c6f723d626c756576696f6c6574267374796c653d706c6173746963
+
