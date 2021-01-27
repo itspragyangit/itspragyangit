@@ -8,7 +8,7 @@
 Here are some ideas to get you started:
 
 -->  
-॰ 🔭 I’m currently working on Different sort of Python Problems
+॰ 🔭 I’m currently working on [Genetic Code](https://github.com/itspragyangit/Genetic-code-Python)
 
 ॰ 🌱 I’m currently learning Python Programming Language
 
